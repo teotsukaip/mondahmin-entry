@@ -1,0 +1,2 @@
+# mondahmin-entry
+トップページへリダイレクト
